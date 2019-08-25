@@ -30,3 +30,5 @@ httpd
 
 ## replace name / container-id
 docker run --link <name or container-id ex. cfa93039db6d>:elasticsearch -p 5601:5601 kibana:7.3.1
+
+[https://github.com/rupeshthakur/docker-logging/blob/master/example/kibana/Screen%20Shot%202019-08-25%20at%2011.12.04%20PM.png] 
